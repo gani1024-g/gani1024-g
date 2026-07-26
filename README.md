@@ -25,12 +25,6 @@
 
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gani1024-g&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=gani1024-g&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=gani1024-g&theme=dark&hide_border=false)
-
-
-
 </div><br>
 <!-- Snake Game Repo View -->
 
