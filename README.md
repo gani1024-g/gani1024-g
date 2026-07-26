@@ -19,11 +19,8 @@
 
 </div>
 
+
 </div><br>
-## 🏆 GitHub Trophies!
-[](https://github-profile-trophy.vercel.app/?username=gani1024-g&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-### 🔝 Top Contributed Repo!
-[](https://github-contributor-stats.vercel.app/api?username=gani1024-g&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=gani1024-g&icon=0&color=0)](https://visitcount.itsvg.in)
