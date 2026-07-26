@@ -33,4 +33,8 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/mohithganeshpl011a23343" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"alt="Mohith Ganesh P L" height="30" width="40"/></a>
+      <a href="https://instagram.com" target="_blank">
+  <img src="https://githubusercontent.com" width="24" height="24" alt="Instagram" />
+</a>
+
   
